@@ -1,0 +1,10 @@
+Clone repo
+Checkout master
+Create a new branch with given arguments
+Make file changes
+Commit (add arguments in commit message)
+Record hash
+Push
+
+Checkout backup branch
+Create a new branch from it as source
